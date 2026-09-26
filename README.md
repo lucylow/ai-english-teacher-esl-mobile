@@ -4,12 +4,24 @@
 
 > **An AI-powered React Native English learning platform that combines grammar analysis, RAG-powered curriculum retrieval, Socratic tutoring, roleplay, voice interaction, personalized error correction, multilingual support, and adaptive practice.**
 
+
 [![React Native](https://img.shields.io/badge/React%20Native-Mobile-blue)](https://reactnative.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)](https://nodejs.org/)
 [![AI](https://img.shields.io/badge/AI-Multimodal-purple)](#)
 [![RAG](https://img.shields.io/badge/RAG-Curriculum-orange)](#)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#)
+
+
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzAxX2hvbWU.webp?raw=true)
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzA1X3Byb2ZpbGVfcHJpdmFjeQ.webp?raw=true)
+
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzA2X2d1aWRlZF9sZXNzb24.webp?raw=true)
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzAyX3ByYWN0aWNl.webp?raw=true)
+
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzAzX3NwZWFraW5nX3JlaGVhcnNhbA.webp?raw=true)
+![](https://github.com/lucylow/ai-english-teacher-esl-mobile/blob/main/p7tN0j5hsVwj9RtRCUQyLJ_1787856196859_na1fn_L2hvbWUvdWJ1bnR1L2VuZ2xpc2gtbW9kZS9hcnRpZmFjdHMvbW9iaWxlLXNob3djYXNlL3NjcmVlbnNob3RzLzA0X2NvYWNoaW5nX2ZlZWRiYWNr.webp?raw=true)
+
 
 ---
 
